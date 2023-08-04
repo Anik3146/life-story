@@ -6,3 +6,4 @@ I have yet to complete my Masters.
 I have started my full stack web development job in 2021.
 I will join at MFile at 1st December.
 Logo alignment is centered.
+This text is added from main Branch.
